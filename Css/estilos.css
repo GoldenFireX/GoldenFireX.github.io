@@ -621,7 +621,9 @@ padding: 40px;
     margin-left: 0;
 
 }
-
+.knowledge{
+    padding: 20px;
+}
 .cta{
     margin-bottom: 20px;
 }
