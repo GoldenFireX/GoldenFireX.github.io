@@ -356,7 +356,7 @@ margin-bottom: 25px;
                 text-align:left ;
                 height: 0;
                 transition: height .3s;
-                padding: 20px;
+                padding-bottom: 20px;
             }
             .questions_img{
                 display: block;
@@ -629,7 +629,7 @@ padding: 40px;
     margin-bottom: 20px;
 }
 .questions_show{
-    padding: 20px;
+    padding-bottom: 20px;
 }
 
 }
