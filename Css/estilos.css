@@ -3,9 +3,10 @@
 </style>
 
 :root{
-    --padding-container: 100px 0p;
+    --padding-container: 100px 0;
     --color-title: #001A49;
 }
+
 body {
     font-family: "Montserrat", sans-serif;
 }
@@ -49,7 +50,7 @@ body {
 font-weight: 300;
 }
 .nav_link{
-    margin: auto;
+    margin-left: auto;
     padding: 0;
     display: grid;
     grid-auto-flow: column;
